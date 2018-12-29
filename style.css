@@ -1,0 +1,71 @@
+/*Header*/
+
+.name-title {
+	padding-top: 3%;
+}
+
+.name, 
+.job-title{
+	font-weight: 300;
+	text-align: right;
+}
+
+hr{
+	height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+/*Image section*/
+
+.col-sm-8 img{
+	margin-top: 10%;
+}
+/*Project section*/
+
+.project-section{
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+.title{
+	font-weight: 200;
+}
+
+.card{
+	height:100%;
+}
+
+.Project{
+	margin-top: 2%;
+}
+/*Skills Section*/
+
+.skills-section{
+	margin-top: 2%;
+}
+/*Footer*/
+
+#social-media a{
+	color: #818182;
+	margin: 8px;
+	opacity: 0.7;
+}
+
+#back-to-top a{
+	color: #818182;
+}
+
+#copyright{
+	color: #818182;
+	opacity: 0.7;
+
+}
+
+#copyright p{
+	padding-top: 20px;
+}
+
+#section-two{
+	margin-bottom: 50px;
+}
+
