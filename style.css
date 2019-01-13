@@ -42,6 +42,13 @@ hr{
 .Project{
 	margin-top: 2%;
 }
+
+.btn-secondary {
+    margin-bottom: 10px;
+}
+#para {
+	height: 100px;;
+}
 /*Skills Section*/
 
 .skills-section{
